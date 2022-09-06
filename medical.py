@@ -4,7 +4,7 @@ Created on Thu Nov 18 19:57:46 2021
 
 @author: Enes
 """
-#ders6 : kutuphanelerin yuklenmesi
+
 #kutuphaneler
 import pandas as pd
 import numpy as np
